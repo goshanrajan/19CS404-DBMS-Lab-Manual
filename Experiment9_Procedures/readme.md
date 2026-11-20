@@ -214,7 +214,7 @@ BEGIN
 END;
 /
 ```
-**Output:
+## Output:
 <img width="925" height="392" alt="image" src="https://github.com/user-attachments/assets/3adb746f-f57e-4cf4-9763-d1853facf73f" />
 
 ## RESULT
